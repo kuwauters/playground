@@ -1,0 +1,16 @@
+<configure xmlns="urn:nokia.com:sros:ns:yang:sr:conf">
+    <card>
+        <slot-number>1</slot-number>
+        <card-type>iom-1</card-type>
+        <mda>
+            <mda-slot>1</mda-slot>
+            <mda-type>me6-100gb-qsfp28</mda-type>
+        </mda>
+        <mda>
+            <mda-slot>2</mda-slot>
+        </mda>
+        <fp>
+            <fp-number>1</fp-number>
+        </fp>
+    </card>
+</configure>
