@@ -2,7 +2,7 @@ import requests
 
 def main():
     url = 'https://atlas.ripe.net/api/v2/measurements/?key={}'
-    api_key="7b0cb12e-5d42-4569-92ec-afeb106dfcb0"
+    api_key="" #key to be put
     headers = {'Content-Type': 'application/json'}
     probes = "1000831,1000460,54983,14076,25097"
 
